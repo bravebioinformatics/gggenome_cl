@@ -5,5 +5,6 @@
 2. Go to the directory, open the file named "sequences.txt" and paste sequences you want to search. 
 3. Type "./gggenome_search.sh" on command line. 
 4. Results will be downloaded in "results" folder as html file.
+![Uploading スクリーンショット 2021-03-28 13.58.04.png…]()
 
-![スクリーンショット 2021-03-28 13 55 40](https://user-images.githubusercontent.com/69259748/112742863-4b571d00-8fcd-11eb-8c6a-3eee55fea544.png)
+![スクリーンショット 2021-03-28 13 57 23](https://user-images.githubusercontent.com/69259748/112742878-86f1e700-8fcd-11eb-98e4-273272b83b53.png)
